@@ -20,7 +20,7 @@ conditions = [
   "You be hackin in VSCODE, take 2 sips",
   "If you had to actually build furniture and/or clean Turing on the first day of each module. (1 sip)",
   "If you consistently got free breakfast on Fridays while attending Turing (1 sip)",
-  "If you have bought another Taaap member a drink (4 sips)"
+  "If you have bought another Taaap member a drink (4 sips)",
   "If you’ve presented at a Turing Demo Competition and 5 sips if you’ve placed at a demo comp. 4 sips)",
   "You’ve been to a TAAAP event where Mike Dao actually showed up (5 sips)",
   "Take a sip if you're in mod 2 now of Turing",
